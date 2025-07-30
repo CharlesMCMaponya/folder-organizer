@@ -22,7 +22,7 @@ for file in "$DOWNLOADS"/*; do
 
         case "$extension" in
             jpg|jpeg|png|gif|bmp)
-                echo "🖼 Moving $filename to images/"
+                echo " Moving $filename to images/"
                 mv "$file" "$IMAGES"
                 ;;
             pdf|doc|docx|txt|xls|xlsx|ppt|pptx)
