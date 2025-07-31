@@ -1,6 +1,6 @@
 #  Folder Organizer Bash Script
 
-This is a simple Bash script that automatically organizes a cluttered folder (like Downloads) by sorting files into subfolders based on type — images, documents, videos, and more.
+This is a  Bash script that automatically organizes a cluttered folder (like Downloads) by sorting files into subfolders based on type — images, documents, videos, and more.
 
 ---
 
